@@ -4,7 +4,7 @@ En este ejercicio se crea una app la cual puede gestionar la base de datos de un
 
 Las opciones del menú son:
 
-1- Mostrar el nombre de todos los productos que hay en la base de datos
+1- Mostrar todos los productos que hay en la base de datos
 2- Mostrar los nombres y los precios de todos los productos
 3- Mostrar productos que tengan un precio de 120 a 202
 4- Mostrar todos los productos portátiles
