@@ -111,7 +111,7 @@ public class Main {
     }
     
     private static void menu(){
-        System.out.println("1- Mostrar el nombre de todos los productos que hay en la base de datos");
+        System.out.println("1- Mostrar todos los productos que hay en la base de datos");
         System.out.println("2- Mostrar los nombres y los precios de todos los productos");
         System.out.println("3- Mostrar productos que tengan un precio de 120 a 202");
         System.out.println("4- Mostrar todos los productos portátiles");
