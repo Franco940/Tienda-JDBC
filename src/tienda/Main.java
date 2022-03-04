@@ -52,8 +52,6 @@ public class Main {
                     break;
 
                 case 6:
-                    System.out.println("\nSe mostrará la lista de fabricantes");
-                    servicioFabricante.opcion9();
                     System.out.println("¿El fabricante del nuevo producto está en la lista de fabricnates? [S]i o [N]o");
                     pregunta = input.next();
                     
